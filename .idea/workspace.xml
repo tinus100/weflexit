@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fd5d38f-9ffd-4f5e-852b-6f1f6ea1ae14" name="Default Changelist" comment="" />
+    <list default="true" id="6fd5d38f-9ffd-4f5e-852b-6f1f6ea1ae14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/navigation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +138,7 @@
       <path value="$PROJECT_DIR$/vendor/league/commonmark" />
       <path value="$PROJECT_DIR$/vendor/league/flysystem" />
       <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
     </include_path>
   </component>
   <component name="ProjectId" id="1t15Zvlm5bcnkCDemF9mSBhRwL6" />
@@ -145,7 +152,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/articles" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -154,6 +161,7 @@
       <recent name="C:\Users\tijnt\Desktop\program\project\weflexit\public\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tijnt\Desktop\program\project\weflexit\resources\views\articles" />
       <recent name="C:\Users\tijnt\Desktop\program\project\weflexit\resources\views\errors folder" />
     </key>
   </component>
@@ -175,7 +183,10 @@
       <workItem from="1621924006495" duration="12311000" />
       <workItem from="1622020318725" duration="5758000" />
       <workItem from="1622099079051" duration="910000" />
-      <workItem from="1622100000926" duration="4803000" />
+      <workItem from="1622100000926" duration="12816000" />
+      <workItem from="1622449352287" duration="19000" />
+      <workItem from="1622549006352" duration="5922000" />
+      <workItem from="1622633600493" duration="4925000" />
     </task>
     <servers />
   </component>
