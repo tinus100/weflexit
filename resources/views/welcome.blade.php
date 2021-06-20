@@ -91,7 +91,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="service-item">
                         <i class="fa fa-database"></i>
-                        <h4>Website Hosting</h4>
+                        <h4>aanpassing</h4>
                         <p>Aenean sit amet leo vitae tellus vehicula tincidunt vel sed lorem. Nullam tincidunt commodo magna, id aliquam sapien sollicitudin id.</p>
                     </div>
                 </div>
