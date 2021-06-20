@@ -46,6 +46,8 @@ Route::resource('/articles', ArticleController::class);
 
 Route::resource('products', ProductController::class);
 
-
+if (App::environment('production')) {
+    URL::forceScheme('https');
+}
 
 require __DIR__.'/auth.php';
