@@ -84,7 +84,7 @@
                 <div class="col-md-12">
                     <div class="section-heading">
                         <!-- <span>Hosting</span> -->
-                        <h2>aanpassing</h2>
+                        <h2>Services die wij bieden</h2>
                         <p>Host Cloud is a professional Bootstrap 4 template by TemplateMo for your hosting company websites. There are 4 HTML pages included in this template. You can feel free to customize anything. Please share this template to your friends. Thank you.</p>
                     </div>
                 </div>
