@@ -10,6 +10,16 @@ use Illuminate\Support\Facades\DB;
 
 class ArticleController extends Controller
 {
+
+    function getData(Request $req)
+    {
+        $req->validate([
+            'voorletters'=>'required'
+        ]);
+            return $req->input();
+    }
+
+
     public function index()
     {
 
@@ -37,8 +47,8 @@ class ArticleController extends Controller
     {
 
         Article::create(request()->validate([
-            'title' => 'required',
-            'excerpt' => 'required',
+            'name' => 'required',
+            'question' => 'required',
             'body' => 'required',
         ]));
         return redirect('/articles');
@@ -56,8 +66,8 @@ class ArticleController extends Controller
     {
 
         $article->update(request()->validate([
-            'title' => 'required',
-            'excerpt' => 'required',
+            'naam' => 'required',
+            'vraag?' => 'required',
             'body' => 'required',
         ]));
 
